@@ -1,3 +1,3 @@
 # sum-of-nums
-Hello world!!
-This is a repository created to find the sum of two numbers
+Hello world, how are you?!!
+This repository was made to calculte sum of numbers.
